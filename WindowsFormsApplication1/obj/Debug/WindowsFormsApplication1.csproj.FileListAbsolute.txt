@@ -1,0 +1,16 @@
+D:\Programming\c#\rpg game - 複製 - Copy\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\pokemon.exe.config
+D:\Programming\c#\rpg game - 複製 - Copy\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+D:\Programming\c#\rpg game - 複製 - Copy\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+D:\Programming\c#\rpg game - 複製 - Copy\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\Programming\c#\rpg game - 複製 - Copy\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\pokemon.exe
+D:\Programming\c#\rpg game - 複製 - Copy\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\pokemon.pdb
+D:\Programming\c#\rpg game - 複製 - Copy\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Gma.UserActivityMonitor.dll
+D:\Programming\c#\rpg game - 複製 - Copy\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+D:\Programming\c#\rpg game - 複製 - Copy\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+D:\Programming\c#\rpg game - 複製 - Copy\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Programming\c#\rpg game - 複製 - Copy\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CombatGUI.resources
+D:\Programming\c#\rpg game - 複製 - Copy\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Programming\c#\rpg game - 複製 - Copy\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\pokemon.Properties.Resources.resources
+D:\Programming\c#\rpg game - 複製 - Copy\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Programming\c#\rpg game - 複製 - Copy\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\pokemon.exe
+D:\Programming\c#\rpg game - 複製 - Copy\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\pokemon.pdb
